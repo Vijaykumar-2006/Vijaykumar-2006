@@ -14,7 +14,7 @@
 🎓 I'm currently a student at Coimbatore Institute of Technology pursuing B.Tech in Information Technology.<br><br>
 💻 Passionate about frontend development, I’m constantly honing my skills to build user-friendly and impactful interfaces.<br><br>
 🔍 Always eager to explore the latest technologies—from AI to system design—and stay updated with the ever-evolving tech world.<br><br>
-📚 Beyond code, I enjoy reading, binge-watching series, and exploring the creative edge where technology meets real-world problems.<br><br>
+📚 Beyond code, I enjoy playing cricket ,watching thrillers, and exploring the creative edge where technology meets real-world problems.<br><br>
 💡 Open to collaboration and innovative ideas. Let’s connect and build something amazing together!<br><br>
 📫 Reach me at: vijayramasamy2006@gmail.com
 </p>
