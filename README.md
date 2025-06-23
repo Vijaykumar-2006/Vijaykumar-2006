@@ -4,17 +4,15 @@
   <img src="https://komarev.com/ghpvc/?username=Vijaykumar-2006&label=Profile%20views&color=0e75b6&style=flat" alt="Vijaykumar-2006" />
 </p>
 
-###
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/Vijaykumar-2006/Vijaykumar-2006/main/assets/about-me.png" alt="coding illustration">
 
 <p align="left">
 🎓 I'm currently a student at Coimbatore Institute of Technology pursuing B.Tech in Information Technology.<br><br>
 💻 Passionate about frontend development, I’m constantly honing my skills to build user-friendly and impactful interfaces.<br><br>
 🔍 Always eager to explore the latest technologies—from AI to system design—and stay updated with the ever-evolving tech world.<br><br>
-📚 Beyond code, I enjoy playing cricket ,watching thrillers, and exploring the creative edge where technology meets real-world problems.<br><br>
+📚 Beyond code, I enjoy playing cricket,watching thrillers, and exploring the creative edge where technology meets real-world problems.<br><br>
 💡 Open to collaboration and innovative ideas. Let’s connect and build something amazing together!<br><br>
 📫 Reach me at: vijayramasamy2006@gmail.com
 </p>
